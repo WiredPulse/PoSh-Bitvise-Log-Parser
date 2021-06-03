@@ -6,7 +6,7 @@
         Used depict the log file to parse.
 
     .EXAMPLE
-        PS C:\ > .\BitviseParser.ps1 -log c:\BvSshServer20210520.log
+        PS C:\> .\BitviseParser.ps1 -log c:\BvSshServer20210520.log
 
         Executes the script and parses the BvSshServer20210520.log
 #>
